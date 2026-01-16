@@ -1,0 +1,8 @@
+[analyses]
+fillreturns = true
+nonewvars = true
+noresultvalues = true
+undeclaredname = true
+unusedparams = true
+unusedwrite = true
+useany = false
