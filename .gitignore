@@ -12,8 +12,6 @@
 *.test
 bin/
 tmp/
-core
-http
 
 # Compiled binaries in cmd directories
 cmd/db/db
